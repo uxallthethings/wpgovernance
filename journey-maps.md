@@ -92,7 +92,7 @@ BWH is a large, enterprise scale company and the CEO is very accomplished techni
 * ⚠️ As WordPress grows so does their role in the governance of the open web and a more collaborative and functional community is deemed necessary and the responsible choice 
 
 ## Freelance Developers and Designers
-￼Yih-Woei, an independent developer and small business owner attends a local MeetUp. The organizer of the MeetUp learns that Yih-Woei has specialization with accessibility and invites Yih-Woei to begins speaking publicly and sharing knowledge.
+Yih-Woei, an independent developer and small business owner attends a local MeetUp. The organizer of the MeetUp learns that Yih-Woei has specialization with accessibility and invites Yih-Woei to begins speaking publicly and sharing knowledge.
 * 👍 WordPress is a strong and extremely welcoming community 
 * 👍 Developers find WordPress has great extensibility - easy to add and create plugins and themes 
 *	👍 Open Source is rewarding as we can contribute and make it do whatever we want 
@@ -110,8 +110,8 @@ Patricia, a developer opens a WordPress plugin shop. They have 3 plugins in the 
 * ⚠️ A lack of ongoing UX usability testing 
 * ⚠️ A lack of productive channels for expression of frustration, concerns, and dissenting opinions 
 
-## Past, Present, and Future Innovators 
-￼Jay is a WordPress software engineer working for a larger publishing company. Jay is hired because of their WordPress expertise and after their new platform is completed is is well received among early adopters! They sell subscriptions and business grows.
+## Past, Present, and Future Innovators
+Jay is a WordPress software engineer working for a larger publishing company. Jay is hired because of their WordPress expertise and after their new platform is completed is is well received among early adopters! They sell subscriptions and business grows.
 * 👍 WordPress software engineers, developers, and designers are in demand as the popularity of the platform grows and delivers reliable experiences 
 * 👍 Multiple authors are able to contribute within the platform 
 * 👍 As the community evolves and grows troubleshooting issues becomes less daunting for teams 
@@ -119,7 +119,7 @@ Patricia, a developer opens a WordPress plugin shop. They have 3 plugins in the 
 * ⚠️ Before a big release is shipped, plugin and theme developers need an adequate amount of time to develop and test their products to ensure readiness 
 * ⚠️ Need for open communications and timeline decision making for the future
 
-## The WordPress Project: Some Paid and Some Volunteer 
+## The WordPress Project: Some Paid and Some Volunteer
 ￼From the collection of volunteers, builders, administrators, and users who support and use WordPress, Sasha is a sponsored team lead for the Accessibility team. WordPress teams are currently building the new block editor called Gutenberg.
 * 👍 The community works hard together and takes on extremely difficult challenges together 
 * 👍 Ambitious work on projects or initiatives often takes months and years of teamwork to achieve set goals and to secure forward momentum for the project 
