@@ -80,7 +80,7 @@ In progress https://miro.com/app/board/o9J_kxoZaWw=/
 In progress https://miro.com/app/board/o9J_kxoZaNo=
 
 ## Enterprise
-￼BWH is a large, enterprise scale company and the CEO is very accomplished technically. They dedicate a lot of their professional time to the WordPress project. A large percentage of their business depends on WordPress to be successful. The CEO was asked to take on a leadership role in the Project.
+BWH is a large, enterprise scale company and the CEO is very accomplished technically. They dedicate a lot of their professional time to the WordPress project. A large percentage of their business depends on WordPress to be successful. The CEO was asked to take on a leadership role in the Project.
 * 👍 Large companies invest a lot of resources and make many very important contributions to the WordPress project 
 * 👍 Sponsoring contributors is another support system that they bring 
 * 👍 Sponsoring WordCamps and infrastructure are celebrated 
