@@ -1,4 +1,4 @@
-#Identifying the Stakeholders of WordPress#
+#Identifying the Stakeholders of WordPress
 While The WordPress Governance Project collectively begins the creation of a proposed Governance Document to support WordPress, it is useful to identify some of the stakeholders the project serves.  
 ##About the exercise
 This exercise is a useful way to determine the various resource requirements and constraints that may be present but not clearly documented. Deep understanding of a target audience is fundamental to creating exceptional products. Identifying stakeholders helps a team find the answer to one of their most important questions, “Who are we designing for?” By understanding the expectations, concerns, and motivations of target users, it’s possible to design a product that will satisfy users’ needs and therefore be successful. Understanding the nuances of each stakeholder and their preferences, actions or relationships can better articulate the needs for governance in the WordPress project. 
