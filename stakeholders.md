@@ -7,7 +7,7 @@ This exercise is a useful way to determine the various resource requirements and
 Illustrations by Cathi Bosco with components by Mel Choyce.
 ## How to contribute
 If you have feedback on the exercise, or would like to recommend new stakeholders, please make contributions the work and expand on what has been done thus far.
-## Stakeholders##
+## Stakeholders
 * Consumers or Audiences
 * Makers & Entrepreneurs
 * Site Owners for Hobby & Pastime Websites
@@ -131,87 +131,87 @@ BigWebHost is a large, multinational web hosting company who has invested signif
 BigWebHost staff are sometimes assigned as part of their full-time job  to develop plugins, themes and even contribute to the core WordPress project. They tend to attract and hire the best and the brightest WordPress experts on the planet. 
 ### Priorities:
 * Continued increased adoption of WordPress across the world
-*Features aimed at improving the reliability, security and stability of WordPress
-*Influencing the roadmap of WordPress
-*Marketing our product into the WordPress community and ecosystem
-*Building our reputation as a WordPress-friendly company
-*Hiring and attracting talent and companies that can improve our ability to execute on our vision
+* Features aimed at improving the reliability, security and stability of WordPress
+* Influencing the roadmap of WordPress
+* Marketing our product into the WordPress community and ecosystem
+* Building our reputation as a WordPress-friendly company
+* Hiring and attracting talent and companies that can improve our ability to execute on our vision
 
-##Freelance Developers & Designers 
+## Freelance Developers & Designers 
 ￼￼￼![wordpress freelancer](https://uxallthethings.com/wp-content/uploads/2020/01/Freelancers.jpg)
 We make up a large part of the heart of the WordPress community. We provide professional services to clients who need websites and WordPress-based systems. Sometimes we collaborate with other freelancers. We attend WordCamps and local meetups for continuing education and collaboration. We volunteer, attend, and present at WordCamps or meetups. Our skills range from beginner to expert. The scope of our work and our income can hugely vary as well, depending upon many other factors, such as location, experience, specific skill sets and educational backgrounds. We are well known for generously sharing our knowledge and contributing to the amazing growth and worldwide adoption of WordPress content management systems. Sometimes we rely on WordPress for food and shelter in significant ways, and sometimes it's just one of the tools we use to support our clients. We do not always have enough resources to contribute to WordPress core or to other WordPress-related projects such as Polyglots, Design, or Marketing. Some of us contribute to the community often while many of us are completely unaware of the benefits and opportunities related to managing or relying on an Open Source project.
-###Example: 
+### Example: 
 Yih-Woei is an independent developer who contracts directly with startups, companies, and individual clients. In addition to building websites, she manages and maintains client websites is a part of her recurring income business plan. Yih-Woei also spends at least 5 hours every week studying tutorials and engaging with continuous learning opportunities. She blogs about code languages, SEO insights, and publishes useful tutorials. Yih-Woei collaborates regularly (remotely) with a freelance designer who lives in Dallas, Texas. Together they occasionally take on slightly larger projects with SVG animations and branding packages. When they collaborate, Yoh-Woei has less direct contact with the clients because Erick (the designer) often does the project management and client communications tasks for them.
-###Priorities:
-*Extensibility - easy to add and create plugins and themes
-*Community - events like WordCamps
-*Financial security
-*Business growth
-*Continuity/ease of learning - the interface doesn’t change very frequently
-*Open Source - we can contribute to make it do whatever we want
-*Would significantly benefit from the WordPress Governance Project
+### Priorities:
+* Extensibility - easy to add and create plugins and themes
+* Community - events like WordCamps
+* Financial security
+* Business growth
+* Continuity/ease of learning - the interface doesn’t change very frequently
+* Open Source - we can contribute to make it do whatever we want
+* Would significantly benefit from the WordPress Governance Project
 
-##Publishers
+## Publishers
 ￼￼￼![wordpress publisher](https://uxallthethings.com/wp-content/uploads/2020/01/publishers.png)
 We distribute information at a cost-effective scale and are trying to keep pace with the ever-evolving publishing landscape. We are magazines, newspapers, local news stations, and media brands. Our priorities are primarily related to maximizing our reach and bringing in revenue. Revenue might come in the form of advertising, paywalled content, or paid special privileges. We are happy to see the technological costs of publishing reduced with quality open-source software. 
 We employ professional writers, editors, web developers, and experts in a range of media types (video, audio, etc.) Our budget is heavily weighted toward content creation, rather than technology infrastructure, so relying on the best efforts of the open-source community is key. We want to use the latest and greatest technology so we don’t fall behind amongst our publishing peers. 
-###Example:
+### Example:
 Michael publishes a print and online magazine. He coordinates the activities of a wide range of employees. He needs software that can accommodate a staff of writers, web developers, a video production team, and marketers. Michael is happy when he doesn’t have to answer technical questions from his writers or train his marketing team to code meta tags. His product needs to be compatible with more traditional forms of publishing, but also take advantage of the technological gains of the modern web. Michael is more concerned with monetizing publishing than democratizing it. The less he has to worry about a finicky CMS hindering his publication’s web presence, the more he can focus on publishing the best content and serving his readers. 
-###Priorities
-*Accessibility to the widest possible audience in terms of browsers, devices, and legal context (think GDPR)
-*Performance and scalability for traffic spikes
-*Straightforward and easily-implemented member or subscription monetization models
-*Customizability for a range of content offerings and special functionality
-*Cutting-edge technology to remain relevant in a fast-changing market
-*Would greatly benefit from the WordPress Governance Project
+### Priorities
+* Accessibility to the widest possible audience in terms of browsers, devices, and legal context (think GDPR)
+* Performance and scalability for traffic spikes
+* Straightforward and easily-implemented member or subscription monetization models
+* Customizability for a range of content offerings and special functionality
+* Cutting-edge technology to remain relevant in a fast-changing market
+* Would greatly benefit from the WordPress Governance Project
 
-###Accessibility Required
+### Accessibility Required
 ￼￼￼￼![wordpress accessibility designer illustration](https://uxallthethings.com/wp-content/uploads/2020/01/TWPG-accessibility-tab.jpg)
-We are citizens of the world with disabilities that make it difficult to access and disseminate information online. Some of us have mobility issues, and some of us are visually impaired. Some of us have deafness or hearing loss. Some of us have difficulty due to anxiety, or autism, or dyslexia. Those of us that rely on screen readers require that sites be developed that meet our needs. Some governments and schools create laws that require that we be given access to online and offline resources. We appreciate and respect designers and developers who put the work into making sites accessible for all. WordPress sites and products pay close attention to accessible design.  
-##Example
+We are citizens of the world with disabilities that make it difficult to access and disseminate information online. Some of us have mobility issues, and some of us are visually impaired. Some of us have deafness or hearing loss. Some of us have difficulty due to anxiety, or autism, or dyslexia. Those of us that rely on screen readers require that sites be developed that meet our needs. Some governments and schools create laws that require that we be given access to online and offline resources. We appreciate and respect designers and developers who put the work into making sites accessible for all. WordPress sites and products pay close attention to accessible design.
+## Example
 Francis, once sighted, is blind. She primarily uses her Mac with VoiceOver, though she also has an iPhone and occasionally consumes information on her smartphone. She likes it when information is presented in lists or outlines because this allows her to skip over portions of websites such as sitewide navigation that would otherwise take a long time to listen to. She appreciates content that is easily skimmed, since for her too this shortens the time it takes to find what she is looking for. She has trouble accessing the information on websites that don’t support keyboard-only navigation.  
-##Priorities
-*Structure - information is marked up semantically, with headings, lists, and landmarks
-*Creating and sharing innovation in the field of accessibility
-*Functionality - all information is presented in a way that allows easy consumption, such as video captions, image alternative text, buttons created with<button> HTML tags
-*Continuity/ease of learning - the interface doesn’t change very frequently and is fully accessible
-*Would significantly benefit from the WordPress Governance Project
+## Priorities
+* Structure - information is marked up semantically, with headings, lists, and landmarks
+* Creating and sharing innovation in the field of accessibility
+* Functionality - all information is presented in a way that allows easy consumption, such as video captions, image alternative text, buttons created with<button> HTML tags
+* Continuity/ease of learning - the interface doesn’t change very frequently and is fully accessible
+* Would significantly benefit from the WordPress Governance Project
 
-##Language, Geographical, and Culturally Diverse
+## Language, Geographical, and Culturally Diverse
 ￼￼￼￼￼![wordpress language diversity illustration](https://uxallthethings.com/wp-content/uploads/2020/01/TWPG-language.jpg)
 Our access and ability to participate fully in the world wide web is sometimes challenging due to different time zones, political situations (like censorship issues), geographical challenges, and language differences. Sometimes we have greater resources, but sometimes we are limited by a lack of resources. The mission of WordPress to democratize publishing means a lot to all of us. Our ability to participate, contribute, and compete professionally requires successful communication. We need to be able to publish and communicate in useful ways that WordPress provides. 
-##Example
+## Example
 Suresh’s company provides services to communities in India, Australia, and Norway. He delivers online language learning classes in many languages for companies and individuals all over the world. His company, his clients, and their clients all depend on WordPress to work no matter what language or region they represent. 
-##Priorities
-*Translation - the ability to easily set up automatic translation for both the front and back end, and the site structure
-*Access - an easy and low cost way to disseminate information
-*Control and ownership of content
-*Creating and sharing innovation with little to no boundaries
-*Would significantly benefit from the WordPress Governance Project
+## Priorities
+* Translation - the ability to easily set up automatic translation for both the front and back end, and the site structure
+* Access - an easy and low cost way to disseminate information
+* Control and ownership of content
+* Creating and sharing innovation with little to no boundaries
+* Would significantly benefit from the WordPress Governance Project
 
-##The WordPress Project: Some Paid and Some Volunteer
+## The WordPress Project: Some Paid and Some Volunteer
 ￼￼￼￼￼￼![wordpress project illustration](https://uxallthethings.com/wp-content/uploads/2020/01/TWPG-community.jpg)
 **WordPress Project** - the collection of volunteers, builders, administrators, and users who support and use WordPress. 
 As leaders in the WordPress project, we need to have all of the resources and support required to successfully manage and make informed, clear, and publicly understandable decisions within a highly visible open-source project. We work on teams, and we need a sound set of defined principles that are well documented with clear guidelines to support maintaining, designing, and developing the WordPress platform and its ecosystem. We need to do this work responsibly, as it serves so many globally. We may need de-escalation and “calling in” as conflict resolution models. We need guidance for discussions, contributing to, and having input on project goals and values, plus guidance on having input on priorities, short- and long-term. Supportive documentation and processes for better understanding of policy around participation and consensus building involving the web and the internet are immediately useful to us. 
-###Examples
+### Examples
 The entire collection of volunteers, builders, administrators, and users who support and use WordPress the software including Matt Mullenweg (CEO, Automattic) - Co-Founder & Project Lead, Josepha Haden (Division Lead, Automattic) - Executive Director, Joost deValk (CPO, Yoast) - Marketing and Communications Lead, and many more who contribute their time on teams as paid staff or volunteers. 
-###Priorities
-*Democratize publishing
-*Build simple, predictable software that offers features for growth and success 
-*Visibility and transparency when making decisions, some that involve highly technical compromise and trade-offs
-*Continue to grow the community in a sustainable way
-*Would significantly benefit from the WordPress Governance Project
+### Priorities
+* Democratize publishing
+* Build simple, predictable software that offers features for growth and success 
+* Visibility and transparency when making decisions, some that involve highly technical compromise and trade-offs
+* Continue to grow the community in a sustainable way
+* Would significantly benefit from the WordPress Governance Project
 
-##WordPress Community Supporters
+## WordPress Community Supporters
 ￼￼￼￼￼￼![wordpress community illustration](https://uxallthethings.com/wp-content/uploads/2020/01/TWPG-wordcamps.jpg)
 We participate in Meetups and WordCamps. Some of us speak at at [WordCamps, Meetups](https://central.wordcamp.org/), and other collectives on a wide range of technical, business, and human-centered topics. We add a lot of love to the community and the larger ecosystem. Some of us participate in Make.WordPress.org Slack channels. We are a big reason WordPress gets adopted by a significant percentage of the web. We are not necessarily responsible for maintaining the software, but we do provide the support and enthusiasm for its use and for a widespread understanding of the software and how to leverage its potential. WordPress community supporters around the globe have dedicated countless hours to support and build a tool that democratizes publishing. A public charity supports the educational work done through WordCamps and MeetUps. 
-###Example
+### Example
 Terry leads a monthly Meetup in South Africa and volunteers to coordinate a larger WordCamp held annually in Cape Town. Everyone in the meetup group helps with coordinating speakers and securing the facilities for events. These events are very well attended by live audiences and online. People travel from long distances to learn more about working with WordPress. Terry also volunteers at WordPress happiness bars at events and publicizes learnings on social media and through blogging. Since participating in this community Terry has made some excellent professional relationships as well as some life long friends.  
-###Priorities
+### Priorities
 Give back to the community
-*Create and share their learning
-*Build networks of support so that people can help themselves
-*Meet others that share the same passion -- WordPress
-*Community events like WordCamps and meetups
-*Access - an easy way to disseminate information
-*Would extremely benefit from the WordPress Governance Project
+* Create and share their learning
+* Build networks of support so that people can help themselves
+* Meet others that share the same passion -- WordPress
+* Community events like WordCamps and meetups
+* Access - an easy way to disseminate information
+* Would extremely benefit from the WordPress Governance Project
