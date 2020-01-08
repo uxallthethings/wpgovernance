@@ -91,7 +91,7 @@ BWH is a large, enterprise scale company and the CEO is very accomplished techni
 * ⚠️ Communication channels around strategy, vision, and roadmaps need to be opened up 
 * ⚠️ As WordPress grows so does their role in the governance of the open web and a more collaborative and functional community is deemed necessary and the responsible choice 
 
-## Freelance Developers and Designers 
+## Freelance Developers and Designers
 ￼Yih-Woei, an independent developer and small business owner attends a local MeetUp. The organizer of the MeetUp learns that Yih-Woei has specialization with accessibility and invites Yih-Woei to begins speaking publicly and sharing knowledge.
 * 👍 WordPress is a strong and extremely welcoming community 
 * 👍 Developers find WordPress has great extensibility - easy to add and create plugins and themes 
