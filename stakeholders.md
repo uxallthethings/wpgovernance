@@ -23,8 +23,9 @@ If you have feedback on the exercise, or would like to recommend new stakeholder
 * The WordPress Project: Some Paid and Some Volunteer
 * WordPress Community Supporters
 
-## Consumers or Audiences
 ![global illustration](https://uxallthethings.com/wp-content/uploads/2020/01/freedoms-WordPress-square-2018-4.png)
+
+## Consumers or Audiences
 We are using WordPress applications, services and products _unknowingly_ (although some of us may be aware we are using WordPress, many are not) across the world wide web. We may be accessing information, shopping, communicating, and sharing a wide range of experiences on the web or mobile networks globally through the WordPress project: [WordPress runs 35% of the web.](https://w3techs.com/technologies/overview/content_management)  As a result of this ever-growing market share, the decisions made in the WordPress project may directly or indirectly affect us as users of the web. One example effect: the method in which search engine optimization is “baked” into the project and aligned to best practices and search engine ranking algorithms can greatly affect how all of us discover information powered by WordPress. 
 ### Example
 Finley is searching for online recipes and finds a beautiful website powered by WordPress. After adding it to bookmarks and returning to it often, Finley notices that recipes on this site are highlighted by Google very often. Finley wonders why other websites don’t have their recipes highlighted like this in search results, but then proceeds to make that BBQ and apple pie recipe for a big family dinner party. 
