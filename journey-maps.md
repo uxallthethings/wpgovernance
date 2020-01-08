@@ -46,7 +46,7 @@ Robin is the IT lead engineer at a state university in the USA and is tasked wit
 * ⚠️ Themes and plugins can cause formatting & usability issues 
 
 ## Site Owners for Hobby & Pastime Websites
-￼Sam is a member of a trail running community. They have a domain and are ready to set up hosting. They choose WordPress for their blog because their group is not technical and they love the ability to write essays with the visual editor. When asked why not just run a Facebook group for the trail running group, Sam replies, “because not everyone uses Facebook.”
+Sam is a member of a trail running community. They have a domain and are ready to set up hosting. They choose WordPress for their blog because their group is not technical and they love the ability to write essays with the visual editor. When asked why not just run a Facebook group for the trail running group, Sam replies, “because not everyone uses Facebook.”
 * 👍 Easy to disseminate information from a WordPress blog 
 * 👍 Control and ownership of content 
 * 👍 Low cost to get started 
@@ -56,7 +56,7 @@ Robin is the IT lead engineer at a state university in the USA and is tasked wit
 * ⚠️ Struggles to find clear, non-technical documentation that is easily available in WordPress (maybe on dashboard) 
 
 ## Small Business
-￼Melissa is a naturopathic doctor who started using WordPress to help launch her new practice in her local community. After learning more about themes and customizing how her website looks, she began publishing information about natural remedies that have led to her to add phone consultations to her services.
+Melissa is a naturopathic doctor who started using WordPress to help launch her new practice in her local community. After learning more about themes and customizing how her website looks, she began publishing information about natural remedies that have led to her to add phone consultations to her services.
 * 👍 WordPress website can grow and add dynamic functionality to grow business and increase revenue channels for a business over time 
 * 👍 Adding ecommerce to a site can support business growth 
 * 👍 Consumer audiences can transcend local regions for larger reach 
