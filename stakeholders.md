@@ -26,6 +26,7 @@ If you have feedback on the exercise, or would like to recommend new stakeholder
 ![global illustration](https://uxallthethings.com/wp-content/uploads/2020/01/freedoms-WordPress-square-2018-4.png)
 
 ## Consumers or Audiences
+
 We are using WordPress applications, services and products _unknowingly_ (although some of us may be aware we are using WordPress, many are not) across the world wide web. We may be accessing information, shopping, communicating, and sharing a wide range of experiences on the web or mobile networks globally through the WordPress project: [WordPress runs 35% of the web.](https://w3techs.com/technologies/overview/content_management)  As a result of this ever-growing market share, the decisions made in the WordPress project may directly or indirectly affect us as users of the web. One example effect: the method in which search engine optimization is “baked” into the project and aligned to best practices and search engine ranking algorithms can greatly affect how all of us discover information powered by WordPress. 
 ### Example
 Finley is searching for online recipes and finds a beautiful website powered by WordPress. After adding it to bookmarks and returning to it often, Finley notices that recipes on this site are highlighted by Google very often. Finley wonders why other websites don’t have their recipes highlighted like this in search results, but then proceeds to make that BBQ and apple pie recipe for a big family dinner party. 
@@ -34,8 +35,10 @@ Finley is searching for online recipes and finds a beautiful website powered by 
 * Accessibility - wherever the information is housed, we are able to consume it in various ways, such as using a keyboard only, using a screen reader, or using a mobile phone with a dimly-lit screen
 * Would moderately benefit from the WordPress Governance Project
 
-## Makers & Entrepreneurs
 ￼![wordpress developer illustration](https://uxallthethings.com/wp-content/uploads/2020/01/freedoms-WordPress-square-2018-1.png)
+
+## Makers & Entrepreneurs
+
 We are a very broad range of stakeholders in the WordPress ecosystem and we rely on the health and successful management of the platform for **financial stability** in some way. We rely in some part on WordPress for **“food and shelter”**. We are globally distributed workers, developers, designers, community members, business owners large and small - including employees and associated businesses, theme developers, plugin developers, software engineers, hosting organizations, content creators, agencies, site owners, bloggers, advertisers, editors, site/application owners/employees, and creatives.
 We too want to democratize publishing and empower others. Some of us are active WordPress contributors and others are passive users. 
 The key here is that we are compensated for working in the community in some way. We are in business. **We profit financially** from our work utilizing the WordPress software program. 
