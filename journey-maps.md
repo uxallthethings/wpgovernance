@@ -65,7 +65,7 @@ Robin is the IT lead engineer at a state university in the USA and is tasked wit
 * ⚠️ Support for both initial site setup/creation as well as support for the growth & maintenance of an evolving site as functionality is added and maintenance is required 
 
 ## Consumers or Audiences
-￼Finley is searching for recipes on line. Ease of finding the information, products, or services they are looking for is important to Finley regardless of the device they are using or if they are traveling or connected to service in their house. Finley finds a beautiful website powered by WordPress.
+Finley is searching for recipes on line. Ease of finding the information, products, or services they are looking for is important to Finley regardless of the device they are using or if they are traveling or connected to service in their house. Finley finds a beautiful website powered by WordPress.
 * 👍 The top search results are from recipe sites built with WordPress 
 * 👍 Taxonomies provide an efficient and immersive browsing experience 
 * 👍 Easy to share sites and site content with friends to engage with 
