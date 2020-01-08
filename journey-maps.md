@@ -34,10 +34,7 @@ Suresh owns a company that provides professional language learning services inte
 * ⚠️ Need to improve of the processes for adding translations for plugins in core 
 
 ## Individuals & Educators
-￼
-Robin is the IT lead engineer at a state university in the USA and is tasked with setting up hosting and a website for the school. Their team needs specific functionality, to protect the privacy of the site guests, and must meet accessibility requirements for their work. 
-￼
-￼
+Robin is the IT lead engineer at a state university in the USA and is tasked with setting up hosting and a website for the school. Their team needs specific functionality, to protect the privacy of the site guests, and must meet accessibility requirements for their work.
 * 👍 WordPress web development can meet WCAG standards with some work
 * 👍 Fallback on the Classic editor proves very useful 
 * 👍 Great resources are available through the plugin repository 
@@ -48,9 +45,8 @@ Robin is the IT lead engineer at a state university in the USA and is tasked wit
 * ⚠️ Need for standardized formatting for more successful migration of sites 
 * ⚠️ Themes and plugins can cause formatting & usability issues 
 
-## Site Owners for Hobby & Pastime Websites 
+## Site Owners for Hobby & Pastime Websites
 ￼Sam is a member of a trail running community. They have a domain and are ready to set up hosting. They choose WordPress for their blog because their group is not technical and they love the ability to write essays with the visual editor. When asked why not just run a Facebook group for the trail running group, Sam replies, “because not everyone uses Facebook.”
-￼
 * 👍 Easy to disseminate information from a WordPress blog 
 * 👍 Control and ownership of content 
 * 👍 Low cost to get started 
@@ -59,9 +55,8 @@ Robin is the IT lead engineer at a state university in the USA and is tasked wit
 * ⚠️ Maintenance of a website and managing plugin conflicts is challenging 
 * ⚠️ Struggles to find clear, non-technical documentation that is easily available in WordPress (maybe on dashboard) 
 
-## Small Business 
+## Small Business
 ￼Melissa is a naturopathic doctor who started using WordPress to help launch her new practice in her local community. After learning more about themes and customizing how her website looks, she began publishing information about natural remedies that have led to her to add phone consultations to her services.
-￼
 * 👍 WordPress website can grow and add dynamic functionality to grow business and increase revenue channels for a business over time 
 * 👍 Adding ecommerce to a site can support business growth 
 * 👍 Consumer audiences can transcend local regions for larger reach 
@@ -71,23 +66,21 @@ Robin is the IT lead engineer at a state university in the USA and is tasked wit
 
 ## Consumers or Audiences
 ￼Finley is searching for recipes on line. Ease of finding the information, products, or services they are looking for is important to Finley regardless of the device they are using or if they are traveling or connected to service in their house. Finley finds a beautiful website powered by WordPress.
-￼
 * 👍 The top search results are from recipe sites built with WordPress 
-* 	👍 Taxonomies provide an efficient and immersive browsing experience 
+* 👍 Taxonomies provide an efficient and immersive browsing experience 
 * 👍 Easy to share sites and site content with friends to engage with 
 * ⚠️ Poor performance, privacy, and consent concerns on some sites 
 * ⚠️ Lack of accessibility standards lead to negative impacts on the diverse use cases who browse and engage with WordPress websites (perhaps unknowingly) everyday 
 * ⚠️ Highlights the importance of considering the end-user and web standards implications the ecosystem creates 
 
 ## Accessibility Required
-￼In progress https://miro.com/app/board/o9J_kxoZaWw=/
+In progress https://miro.com/app/board/o9J_kxoZaWw=/
 
 ## Publishers
-￼In progress https://miro.com/app/board/o9J_kxoZaNo=
+In progress https://miro.com/app/board/o9J_kxoZaNo=
 
 ## Enterprise
-￼BWH is a large, enterprise scale company and the CEO is very accomplished technically. They dedicate a lot of their professional time to the WordPress project. A large percentage of their business depends on WordPress to be successful. The CEO was asked to take on a leadership role in the Project. 
-￼
+￼BWH is a large, enterprise scale company and the CEO is very accomplished technically. They dedicate a lot of their professional time to the WordPress project. A large percentage of their business depends on WordPress to be successful. The CEO was asked to take on a leadership role in the Project.
 * 👍 Large companies invest a lot of resources and make many very important contributions to the WordPress project 
 * 👍 Sponsoring contributors is another support system that they bring 
 * 👍 Sponsoring WordCamps and infrastructure are celebrated 
@@ -99,8 +92,7 @@ Robin is the IT lead engineer at a state university in the USA and is tasked wit
 * ⚠️ As WordPress grows so does their role in the governance of the open web and a more collaborative and functional community is deemed necessary and the responsible choice 
 
 ## Freelance Developers and Designers 
-￼Yih-Woei, an independent developer and small business owner attends a local MeetUp. The organizer of the MeetUp learns that Yih-Woei has specialization with accessibility and invites Yih-Woei to begins speaking publicly and sharing knowledge. 
-￼
+￼Yih-Woei, an independent developer and small business owner attends a local MeetUp. The organizer of the MeetUp learns that Yih-Woei has specialization with accessibility and invites Yih-Woei to begins speaking publicly and sharing knowledge.
 * 👍 WordPress is a strong and extremely welcoming community 
 * 👍 Developers find WordPress has great extensibility - easy to add and create plugins and themes 
 *	👍 Open Source is rewarding as we can contribute and make it do whatever we want 
@@ -109,8 +101,7 @@ Robin is the IT lead engineer at a state university in the USA and is tasked wit
 * ⚠️ How a sponsorship can change the message in a presentation or project for WordPress 
 
 ## Makers and Entrepreneurs
-￼Patricia, a developer opens a WordPress plugin shop. They have 3 plugins in the repo that have over 600,000 installs specializing in SEO and Social Media integrations. As a company they do a lot of work contributing to WordPress core and are known for creating custom applications as well.
-￼
+Patricia, a developer opens a WordPress plugin shop. They have 3 plugins in the repo that have over 600,000 installs specializing in SEO and Social Media integrations. As a company they do a lot of work contributing to WordPress core and are known for creating custom applications as well.￼
 * 👍 A growing company that grows with WordPress produces job opportunities and financial security for successful teams 
 * 👍 As companies and teams gain traction they often generously contribute back to the WordPress project 
 * 👍 Volunteers within the project are incredibly skilled and dedicated to their work and responsibilities giving extreme care to be thoughtful and sincere in their communications 
@@ -120,8 +111,7 @@ Robin is the IT lead engineer at a state university in the USA and is tasked wit
 * ⚠️ A lack of productive channels for expression of frustration, concerns, and dissenting opinions 
 
 ## Past, Present, and Future Innovators 
-￼Jay is a WordPress software engineer working for a larger publishing company. Jay is hired because of their WordPress expertise and after their new platform is completed is is well received among early adopters! They sell subscriptions and business grows. 
-￼
+￼Jay is a WordPress software engineer working for a larger publishing company. Jay is hired because of their WordPress expertise and after their new platform is completed is is well received among early adopters! They sell subscriptions and business grows.
 * 👍 WordPress software engineers, developers, and designers are in demand as the popularity of the platform grows and delivers reliable experiences 
 * 👍 Multiple authors are able to contribute within the platform 
 * 👍 As the community evolves and grows troubleshooting issues becomes less daunting for teams 
@@ -131,7 +121,6 @@ Robin is the IT lead engineer at a state university in the USA and is tasked wit
 
 ## The WordPress Project: Some Paid and Some Volunteer 
 ￼From the collection of volunteers, builders, administrators, and users who support and use WordPress, Sasha is a sponsored team lead for the Accessibility team. WordPress teams are currently building the new block editor called Gutenberg.
-￼
 * 👍 The community works hard together and takes on extremely difficult challenges together 
 * 👍 Ambitious work on projects or initiatives often takes months and years of teamwork to achieve set goals and to secure forward momentum for the project 
 * 👍 WordPress teams often take proactive measures towards identifying deficiencies and beginning to work on solutions 
@@ -145,7 +134,7 @@ Robin is the IT lead engineer at a state university in the USA and is tasked wit
 * ⚠️ Consider how to organize and represent our community across the wider web and how to contribute to improving the state of the web 
 
 ## WordPress Community Supporters
-￼Terry, leads a monthly MeetUp in South Africa and volunteers to coordinate a larger WordCamp held annually in Cape Town. Terry decides to start a new WordCamp with a group of co-organizers. They regularly give back to the community, create and share their learning, and build networks of support so that people can help themselves. WordCamps help launch careers, build meaningful connections and help to move the web forward.
+Terry, leads a monthly MeetUp in South Africa and volunteers to coordinate a larger WordCamp held annually in Cape Town. Terry decides to start a new WordCamp with a group of co-organizers. They regularly give back to the community, create and share their learning, and build networks of support so that people can help themselves. WordCamps help launch careers, build meaningful connections and help to move the web forward.
 ￼
 * 👍 Community supporters have made some excellent professional relationships as well as some life long friends for themselves and for others 
 * 👍 The WordPress community builds networks of support so that people can help themselves through community events like WordCamps 
