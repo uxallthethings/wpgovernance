@@ -1,6 +1,7 @@
 # Journey Maps: The Case for Governance
 
-> Any organization can function without governance, but that is not enough. You need to function and be a healthy environment for your organization, and its current and future members. In order to be healthy, you need clear structure, processes, and decisions. That is what governance means.-Rachel Cherry 2019
+> Any organization can function without governance, but that is not enough. You need to function and be a healthy environment for your organization, and its current and future members. In order to be healthy, you need clear structure, processes, and decisions. That is what governance means.
+-Rachel Cherry 2019
 
 The task of coming up with a vision of WordPress governance can be overwhelming. It’s a lot of responsibility to imagine what an ideal experience can be, then render the governance documentation to achieve and support that experience.
 
