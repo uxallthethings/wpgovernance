@@ -22,7 +22,6 @@ If you have feedback on the exercise, or would like to recommend new stakeholder
 * Language, Geographical, and Culturally Diverse
 * The WordPress Project: Some Paid and Some Volunteer
 * WordPress Community Supporters
-
 ![global illustration](https://uxallthethings.com/wp-content/uploads/2020/01/freedoms-WordPress-square-2018-4.png)
 
 ## Consumers or Audiences
@@ -34,8 +33,7 @@ Finley is searching for online recipes and finds a beautiful website powered by 
 * Ease of finding the information, products, or services we’re looking for
 * Accessibility - wherever the information is housed, we are able to consume it in various ways, such as using a keyboard only, using a screen reader, or using a mobile phone with a dimly-lit screen
 * Would moderately benefit from the WordPress Governance Project
-
-￼![wordpress developer illustration](https://uxallthethings.com/wp-content/uploads/2020/01/freedoms-WordPress-square-2018-1.png)
+![wordpress developer illustration](https://uxallthethings.com/wp-content/uploads/2020/01/freedoms-WordPress-square-2018-1.png)
 
 ## Makers & Entrepreneurs
 
@@ -59,8 +57,7 @@ Patricia is a plugin designer/developer and runs an online plugin shop. She also
 * Continuity/ease of learning - the interface doesn’t change very frequently
 * Open Source - we can contribute to make it do whatever we want
 * Would significantly benefit from the WordPress Governance Project
-
-￼￼![wordpress site owner illustration](https://uxallthethings.com/wp-content/uploads/2020/01/WordPres-hobby-pasttime-a.jpg)
+![wordpress site owner illustration](https://uxallthethings.com/wp-content/uploads/2020/01/WordPres-hobby-pasttime-a.jpg)
 
 ## Site Owners for Hobby & Pastime Websites
 
@@ -77,7 +74,6 @@ Sam is part of a trail running group that likes to post announcements about upco
 * Create and share
 * Continuity/ease of learning - the interface doesn’t change very frequently
 * Would significantly benefit from the WordPress Governance Project
-
 ￼￼￼![wordpress engineer and innovator](https://uxallthethings.com/wp-content/uploads/2020/01/freedoms-WordPress-square-2018-2.png)
 
 ## Past, Present, & Future Innovators
@@ -93,8 +89,7 @@ Jay is a WordPress software engineer who is working for another company to make 
 * Financial security
 * Contribute - we can contribute to make the software do whatever we want
 * Would significantly benefit from the WordPress Governance Project
-
-￼￼￼￼![wordpress amplifiled audiences](https://uxallthethings.com/wp-content/uploads/2020/01/freedoms-WordPress-square-2018-3.png)
+![wordpress amplifiled audiences](https://uxallthethings.com/wp-content/uploads/2020/01/freedoms-WordPress-square-2018-3.png)
 
 ## Amplified Audiences
 
@@ -108,8 +103,7 @@ Max both publishes and consumes content through WordPress. Organizations like th
 * Customizability without a lot of technical knowledge (themes and plugins are readily available)
 * Continuity/ease of learning - the interface doesn’t change frequently
 * Would significantly benefit from the WordPress Governance Project
-
-￼￼￼￼￼![wordpress educators](https://uxallthethings.com/wp-content/uploads/2020/01/Higher-Education-WordPress-Governance.jpg)
+![wordpress educators](https://uxallthethings.com/wp-content/uploads/2020/01/Higher-Education-WordPress-Governance.jpg)
 
 ## Individuals & Educators
 
@@ -123,8 +117,7 @@ Robin is the IT lead engineer at a state university in Connecticut. Robin is req
 * Customizability without a lot of technical knowledge or cost (themes and plugins are readily available)
 * Continuity/ease of learning - the interface doesn’t change very frequently
 * Would significantly benefit from the WordPress Governance Project
-
-￼![wordpress educators](https://uxallthethings.com/wp-content/uploads/2020/01/WordPress-small-business.png)
+![wordpress educators](https://uxallthethings.com/wp-content/uploads/2020/01/WordPress-small-business.png)
 
 ## Small Business Owners
 
@@ -136,8 +129,7 @@ Melissa is a naturopathic doctor who started using WordPress to reach her local 
 * Customizability without a lot of technical knowledge or cost (themes and plugins are readily available)
 * Easy to train staff to manage the website
 * Would moderately benefit from the WordPress Governance Project
-
-￼￼![wordpress enterprise illustration](https://uxallthethings.com/wp-content/uploads/2020/01/Enterprise.png)
+![wordpress enterprise illustration](https://uxallthethings.com/wp-content/uploads/2020/01/Enterprise.png)
 
 ## Enterprise 
 
@@ -152,8 +144,7 @@ BigWebHost staff are sometimes assigned as part of their full-time job  to deve
 * Marketing our product into the WordPress community and ecosystem
 * Building our reputation as a WordPress-friendly company
 * Hiring and attracting talent and companies that can improve our ability to execute on our vision
-
-￼￼￼![wordpress freelancer](https://uxallthethings.com/wp-content/uploads/2020/01/Freelancers.jpg)
+![wordpress freelancer](https://uxallthethings.com/wp-content/uploads/2020/01/Freelancers.jpg)
 
 ## Freelance Developers & Designers
 
@@ -168,8 +159,7 @@ Yih-Woei is an independent developer who contracts directly with startups, compa
 * Continuity/ease of learning - the interface doesn’t change very frequently
 * Open Source - we can contribute to make it do whatever we want
 * Would significantly benefit from the WordPress Governance Project
-
-￼￼￼![wordpress publisher](https://uxallthethings.com/wp-content/uploads/2020/01/publishers.png)
+![wordpress publisher](https://uxallthethings.com/wp-content/uploads/2020/01/publishers.png)
 
 ## Publishers
 
@@ -184,7 +174,6 @@ Michael publishes a print and online magazine. He coordinates the activities of 
 * Customizability for a range of content offerings and special functionality
 * Cutting-edge technology to remain relevant in a fast-changing market
 * Would greatly benefit from the WordPress Governance Project
-
 ￼￼￼￼![wordpress accessibility designer illustration](https://uxallthethings.com/wp-content/uploads/2020/01/TWPG-accessibility-tab.jpg)
 
 ### Accessibility Required
@@ -198,8 +187,7 @@ Francis, once sighted, is blind. She primarily uses her Mac with VoiceOver, thou
 * Functionality - all information is presented in a way that allows easy consumption, such as video captions, image alternative text, buttons created with<button> HTML tags
 * Continuity/ease of learning - the interface doesn’t change very frequently and is fully accessible
 * Would significantly benefit from the WordPress Governance Project
-
-￼￼￼￼￼![wordpress language diversity illustration](https://uxallthethings.com/wp-content/uploads/2020/01/TWPG-language.jpg)
+![wordpress language diversity illustration](https://uxallthethings.com/wp-content/uploads/2020/01/TWPG-language.jpg)
 
 ## Language, Geographical, and Culturally Diverse
 
@@ -212,8 +200,7 @@ Suresh’s company provides services to communities in India, Australia, and Nor
 * Control and ownership of content
 * Creating and sharing innovation with little to no boundaries
 * Would significantly benefit from the WordPress Governance Project
-
-￼￼￼￼￼￼![wordpress project illustration](https://uxallthethings.com/wp-content/uploads/2020/01/TWPG-community.jpg)
+![wordpress project illustration](https://uxallthethings.com/wp-content/uploads/2020/01/TWPG-community.jpg)
 
 ## The WordPress Project: Some Paid and Some Volunteer
 
@@ -227,8 +214,7 @@ The entire collection of volunteers, builders, administrators, and users who sup
 * Visibility and transparency when making decisions, some that involve highly technical compromise and trade-offs
 * Continue to grow the community in a sustainable way
 * Would significantly benefit from the WordPress Governance Project
-
-￼￼￼￼￼￼![wordpress community illustration](https://uxallthethings.com/wp-content/uploads/2020/01/TWPG-wordcamps.jpg)
+![wordpress community illustration](https://uxallthethings.com/wp-content/uploads/2020/01/TWPG-wordcamps.jpg)
 
 ## WordPress Community Supporters
 
