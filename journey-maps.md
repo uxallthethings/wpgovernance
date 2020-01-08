@@ -179,7 +179,7 @@ Terry, leads a monthly MeetUp in South Africa and volunteers to coordinate a lar
 ## Grouping of Stakeholders
 WPGovernance MindMap | Stakeholders 
 
-{Map: Groouping and mindmap of Stakeholders](https://miro.com/app/board/o9J_kx68tWI=/)
+[Map: Groouping and mindmap of Stakeholders](https://miro.com/app/board/o9J_kx68tWI=/)
 
 ## WordPress Project Structure
 [Map: Platforms, channels and structure of the project](https://miro.com/app/board/o9J_kxWWXrc=/)
