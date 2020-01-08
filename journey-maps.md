@@ -27,6 +27,7 @@ A journey map is a diagram that visualizes the journey of stakeholders as they i
 
 ## Language, Geographical, and Culturally Diverse
 Suresh owns a company that provides professional language learning services internationally. They use WordPress multisite installation for their platform. The company, their clients, and their students all depend on WordPress to work no matter what language or region they represent.
+[Map: Suresh, Company Owner Provides Professional Services Internationally](https://miro.com/app/board/o9J_kxoZQoI=/)
 ￼
 * 👍 Using WordPress multisite allows the administration staff to customize their own platform for their specific student base 
 * 👍 Plugin author can make requests within the WordPress channels for volunteer translators to help
@@ -35,6 +36,8 @@ Suresh owns a company that provides professional language learning services inte
 
 ## Individuals & Educators
 Robin is the IT lead engineer at a state university in the USA and is tasked with setting up hosting and a website for the school. Their team needs specific functionality, to protect the privacy of the site guests, and must meet accessibility requirements for their work.
+[Map: Robin, IT Lead Engineer for a state university in the USA](https://miro.com/app/board/o9J_kxoZa-8=/)
+
 * 👍 WordPress web development can meet WCAG standards with some work
 * 👍 Fallback on the Classic editor proves very useful 
 * 👍 Great resources are available through the plugin repository 
@@ -47,6 +50,8 @@ Robin is the IT lead engineer at a state university in the USA and is tasked wit
 
 ## Site Owners for Hobby & Pastime Websites
 Sam is a member of a trail running community. They have a domain and are ready to set up hosting. They choose WordPress for their blog because their group is not technical and they love the ability to write essays with the visual editor. When asked why not just run a Facebook group for the trail running group, Sam replies, “because not everyone uses Facebook.”
+[Map: Sam, member of a trail running group](https://miro.com/app/board/o9J_kxoZd9A=/)
+
 * 👍 Easy to disseminate information from a WordPress blog 
 * 👍 Control and ownership of content 
 * 👍 Low cost to get started 
@@ -57,6 +62,7 @@ Sam is a member of a trail running community. They have a domain and are ready t
 
 ## Small Business
 Melissa is a naturopathic doctor who started using WordPress to help launch her new practice in her local community. After learning more about themes and customizing how her website looks, she began publishing information about natural remedies that have led to her to add phone consultations to her services.
+[Map: Melissa, Naturopath](https://miro.com/app/board/o9J_kxpwbHY=/)
 * 👍 WordPress website can grow and add dynamic functionality to grow business and increase revenue channels for a business over time 
 * 👍 Adding ecommerce to a site can support business growth 
 * 👍 Consumer audiences can transcend local regions for larger reach 
@@ -66,6 +72,8 @@ Melissa is a naturopathic doctor who started using WordPress to help launch her 
 
 ## Consumers or Audiences
 Finley is searching for recipes on line. Ease of finding the information, products, or services they are looking for is important to Finley regardless of the device they are using or if they are traveling or connected to service in their house. Finley finds a beautiful website powered by WordPress.
+[Map: Finley, Searching for Online Recipes](https://miro.com/app/board/o9J_kxoY2fE=/)
+
 * 👍 The top search results are from recipe sites built with WordPress 
 * 👍 Taxonomies provide an efficient and immersive browsing experience 
 * 👍 Easy to share sites and site content with friends to engage with 
@@ -81,6 +89,8 @@ In progress https://miro.com/app/board/o9J_kxoZaNo=
 
 ## Enterprise
 BWH is a large, enterprise scale company and the CEO is very accomplished technically. They dedicate a lot of their professional time to the WordPress project. A large percentage of their business depends on WordPress to be successful. The CEO was asked to take on a leadership role in the Project.
+[Map: BWH, Large, Multinational Web Hosting Company](https://miro.com/app/board/o9J_kxoacz0=/)
+
 * 👍 Large companies invest a lot of resources and make many very important contributions to the WordPress project 
 * 👍 Sponsoring contributors is another support system that they bring 
 * 👍 Sponsoring WordCamps and infrastructure are celebrated 
@@ -93,6 +103,8 @@ BWH is a large, enterprise scale company and the CEO is very accomplished techni
 
 ## Freelance Developers and Designers
 Yih-Woei, an independent developer and small business owner attends a local MeetUp. The organizer of the MeetUp learns that Yih-Woei has specialization with accessibility and invites Yih-Woei to begins speaking publicly and sharing knowledge.
+[Map: Yih-Woei, Independent Developer Contracts with Start Ups, Companies, and Individual Clients.](https://miro.com/app/board/o9J_kxoY2VQ=/)
+
 * 👍 WordPress is a strong and extremely welcoming community 
 * 👍 Developers find WordPress has great extensibility - easy to add and create plugins and themes 
 *	👍 Open Source is rewarding as we can contribute and make it do whatever we want 
@@ -102,6 +114,8 @@ Yih-Woei, an independent developer and small business owner attends a local Meet
 
 ## Makers and Entrepreneurs
 Patricia, a developer opens a WordPress plugin shop. They have 3 plugins in the repo that have over 600,000 installs specializing in SEO and Social Media integrations. As a company they do a lot of work contributing to WordPress core and are known for creating custom applications as well.￼
+[Map:Patricia, Plugin Developer and Small Business Owner](https://miro.com/app/board/o9J_kxpR_TA=/)
+
 * 👍 A growing company that grows with WordPress produces job opportunities and financial security for successful teams 
 * 👍 As companies and teams gain traction they often generously contribute back to the WordPress project 
 * 👍 Volunteers within the project are incredibly skilled and dedicated to their work and responsibilities giving extreme care to be thoughtful and sincere in their communications 
@@ -112,6 +126,8 @@ Patricia, a developer opens a WordPress plugin shop. They have 3 plugins in the 
 
 ## Past, Present, and Future Innovators
 Jay is a WordPress software engineer working for a larger publishing company. Jay is hired because of their WordPress expertise and after their new platform is completed is is well received among early adopters! They sell subscriptions and business grows.
+[Map: Jay, WordPress Software Engineer Working for a Larger Company](https://miro.com/app/board/o9J_kxob8Ck=/)
+
 * 👍 WordPress software engineers, developers, and designers are in demand as the popularity of the platform grows and delivers reliable experiences 
 * 👍 Multiple authors are able to contribute within the platform 
 * 👍 As the community evolves and grows troubleshooting issues becomes less daunting for teams 
@@ -121,6 +137,8 @@ Jay is a WordPress software engineer working for a larger publishing company. Ja
 
 ## The WordPress Project: Some Paid and Some Volunteer
 ￼From the collection of volunteers, builders, administrators, and users who support and use WordPress, Sasha is a sponsored team lead for the Accessibility team. WordPress teams are currently building the new block editor called Gutenberg.
+[Map: Collection of Volunteers, Builders, Administrators, and Users Who Support and Use WordPress](https://miro.com/app/board/o9J_kxoZQ9E=/)
+
 * 👍 The community works hard together and takes on extremely difficult challenges together 
 * 👍 Ambitious work on projects or initiatives often takes months and years of teamwork to achieve set goals and to secure forward momentum for the project 
 * 👍 WordPress teams often take proactive measures towards identifying deficiencies and beginning to work on solutions 
@@ -135,7 +153,8 @@ Jay is a WordPress software engineer working for a larger publishing company. Ja
 
 ## WordPress Community Supporters
 Terry, leads a monthly MeetUp in South Africa and volunteers to coordinate a larger WordCamp held annually in Cape Town. Terry decides to start a new WordCamp with a group of co-organizers. They regularly give back to the community, create and share their learning, and build networks of support so that people can help themselves. WordCamps help launch careers, build meaningful connections and help to move the web forward.
-￼
+[￼Map: Terry, leads a monthly MeetUp in South Africa and volunteers to coordinate a larger WordCamp held annually in Cape Town](https://miro.com/app/board/o9J_kxoZQAY=/)
+
 * 👍 Community supporters have made some excellent professional relationships as well as some life long friends for themselves and for others 
 * 👍 The WordPress community builds networks of support so that people can help themselves through community events like WordCamps 
 * 👍 Meet others that share the same passion — WordPress 
@@ -148,6 +167,9 @@ Terry, leads a monthly MeetUp in South Africa and volunteers to coordinate a lar
 
 ## Grouping of Stakeholders
 WPGovernance MindMap | Stakeholders  
+
+## WordPress Project Structure
+[Map: Platforms, channels and structure of the project](https://miro.com/app/board/o9J_kxWWXrc=/)
 
 > Any organization can function without governance, but that is not enough. You need to function and be a healthy environment for your organization, and its current and future members. In order to be healthy, you need clear structure, processes, and decisions. That is what governance means.
 -Rachel Cherry 2019
