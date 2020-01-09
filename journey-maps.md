@@ -144,7 +144,7 @@ Jay is a WordPress software engineer working for a larger publishing company. Ja
 * ⚠️ Need for open communications and timeline decision making for the future
 
 ## The WordPress Project: Some Paid and Some Volunteer
-￼From the collection of volunteers, builders, administrators, and users who support and use WordPress, Sasha is a sponsored team lead for the Accessibility team. WordPress teams are currently building the new block editor called Gutenberg.
+From the collection of volunteers, builders, administrators, and users who support and use WordPress, Sasha is a sponsored team lead for the Accessibility team. WordPress teams are currently building the new block editor called Gutenberg.
 
 [Map: Collection of Volunteers, Builders, Administrators, and Users Who Support and Use WordPress](https://miro.com/app/board/o9J_kxoZQ9E=/)
 
@@ -162,7 +162,6 @@ Jay is a WordPress software engineer working for a larger publishing company. Ja
 
 ## WordPress Community Supporters
 Terry, leads a monthly MeetUp in South Africa and volunteers to coordinate a larger WordCamp held annually in Cape Town. Terry decides to start a new WordCamp with a group of co-organizers. They regularly give back to the community, create and share their learning, and build networks of support so that people can help themselves. WordCamps help launch careers, build meaningful connections and help to move the web forward.
-
 [￼Map: Terry, leads a monthly MeetUp in South Africa and volunteers to coordinate a larger WordCamp held annually in Cape Town](https://miro.com/app/board/o9J_kxoZQAY=/)
 
 * 👍 Community supporters have made some excellent professional relationships as well as some life long friends for themselves and for others 
