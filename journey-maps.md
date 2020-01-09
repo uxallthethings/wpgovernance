@@ -163,6 +163,7 @@ From the collection of volunteers, builders, administrators, and users who suppo
 ## WordPress Community Supporters
 Terry, leads a monthly MeetUp in South Africa and volunteers to coordinate a larger WordCamp held annually in Cape Town. Terry decides to start a new WordCamp with a group of co-organizers. They regularly give back to the community, create and share their learning, and build networks of support so that people can help themselves. WordCamps help launch careers, build meaningful connections and help to move the web forward.
 [￼Map: Terry, leads a monthly MeetUp in South Africa and volunteers to coordinate a larger WordCamp held annually in Cape Town](https://miro.com/app/board/o9J_kxoZQAY=/)
+
 * 👍 Community supporters have made some excellent professional relationships as well as some life long friends for themselves and for others 
 * 👍 The WordPress community builds networks of support so that people can help themselves through community events like WordCamps 
 * 👍 Meet others that share the same passion — WordPress 
