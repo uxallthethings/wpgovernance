@@ -29,7 +29,6 @@ A journey map is a diagram that visualizes the journey of stakeholders as they i
 Suresh owns a company that provides professional language learning services internationally. They use WordPress multisite installation for their platform. The company, their clients, and their students all depend on WordPress to work no matter what language or region they represent.
 
 [Map: Suresh, Company Owner Provides Professional Services Internationally](https://miro.com/app/board/o9J_kxoZQoI=/)
-￼
 * 👍 Using WordPress multisite allows the administration staff to customize their own platform for their specific student base 
 * 👍 Plugin author can make requests within the WordPress channels for volunteer translators to help
 * ⚠️ More translation support for plugins is needed 
