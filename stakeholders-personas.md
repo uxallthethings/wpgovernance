@@ -232,4 +232,4 @@ Give back to the community
 * Would extremely benefit from the WordPress Governance Project
 
 ## Mind Map
-![Visualization of the user groups] (https://miro.com/app/board/o9J_kx68tWI=/)
+[Visualization of the user groups](https://miro.com/app/board/o9J_kx68tWI=/)
