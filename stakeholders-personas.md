@@ -230,3 +230,6 @@ Give back to the community
 * Community events like WordCamps and meetups
 * Access - an easy way to disseminate information
 * Would extremely benefit from the WordPress Governance Project
+
+## Mind Map
+![Visualization of the user groups] (https://miro.com/app/board/o9J_kx68tWI=/)
